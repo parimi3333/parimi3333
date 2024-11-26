@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **kuro cadence llp**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/parimi3333](https://github.com/parimi3333](https://github.com/dashboard))
+- 👨‍💻 All of my projects are available at https://github.com/dashboard
 
 - 💬 Ask me about **django, python, react, node js**
 
